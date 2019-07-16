@@ -1,0 +1,5 @@
+ec2-3-85-119-14.compute-1.amazonaws.com
+
+
+ssh -i 'C:\Users\Win7\Downloads\testvm.pem' ec2-user@3.85.119.14
+
